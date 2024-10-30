@@ -1,16 +1,10 @@
 ## Bem vindo ao meu perfil 💗💋
 
-<!--
-**acrysstein/acrysstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cryslaine Stein
 
-Here are some ideas to get you started:
+Essas são algumas das minhas ideias:
 
 - Estou estudando a plataforma [Alura].(https://www.alura.com.br).
 - E me desenvolvendo na linguagem JavaScript.
 - Irei utilizar essa plataforma para minha organização e compartilhamento dos meus projetos.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
